@@ -1,0 +1,5 @@
+01/20/2019 07:28:47 PM: -LoggingDemo2 -DEBUG: debug message
+01/20/2019 07:28:47 PM: -LoggingDemo2 -INFO: info message
+01/20/2019 07:28:47 PM: -LoggingDemo2 -WARNING: warning message
+01/20/2019 07:28:47 PM: -LoggingDemo2 -ERROR: error message
+01/20/2019 07:28:47 PM: -LoggingDemo2 -CRITICAL: critical message
